@@ -78,7 +78,7 @@ g++.exe -o 3DRENDERER.exe 3DRENDERER.o -O3 -static-libstdc++ -static-libgcc -sta
 ## Usage
 
 1. Compile the project.
-2. Launch `DRENDERER.exe.
+2. Launch `3DRENDERER.exe.
 3. Open an object file by typing it into the terminal window.
 4. Fly through the scene using the mouse and **WASD**.
 5. Add lights or cubes as needed.
